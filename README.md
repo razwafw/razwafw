@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Razwa Fazila Wibowo 👋
+
+My interests in programming revolves around:
+ - android development;
+ - web development (both front-end and back-end); and,
+ - machine learning.
+
+
+<!-- Add github activity -->
+
+<!-- Add programming languange experience -->
+
+<!-- Check out my LinkedIn profile learn more about me and my other experiences. -->
 
 <!--
 **razwafw/razwafw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
