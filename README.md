@@ -1,6 +1,6 @@
-## Hi there, I'm Razwa Fazila Wibowo 👋
+## Hi there, my name is Razwa Fazila Wibowo 👋
 
-### I'm a university student that is currently interested in expanding my knowledge and capability in programming.
+### I am a university student that is currently interested in expanding my knowledge and capability in programming.
 
 <br>
 
