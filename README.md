@@ -1,28 +1,22 @@
-### Hi there, I'm Razwa Fazila Wibowo 👋
+## Hi there, I'm Razwa Fazila Wibowo 👋
+
+### I'm a university student that is currently interested in expanding my knowledge and capability in programming.
+
+<br>
 
 My interests in programming revolves around:
- - android development;
- - web development (both front-end and back-end); and,
- - machine learning.
+ - android development 📱;
+ - web development (both front-end and back-end) 📡; and,
+ - machine learning 🤖.
 
+My GitHub account is a portofolio of my projects which are related to programming. Feel free to view and evaluate them!
 
-<!-- Add github activity -->
+If you want to know more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/razwa-fazila-wibowo-2959151b6/) page.
 
-<!-- Add programming languange experience -->
+<br>
 
-<!-- Check out my LinkedIn profile learn more about me and my other experiences. -->
-
-<!--
-**razwafw/razwafw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics 📊
+<a href="https://github.com/razwafw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razwafw&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razwafw&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
