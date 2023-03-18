@@ -16,6 +16,6 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <br>
 
 ## GitHub Statistics 📊
-[![Stats](https://github-readme-stats.vercel.app/api?username=razwafw&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/razwafw)
+[![Stats](https://github-readme-stats.vercel.app/api?username=razwafw&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&exclude_repo=[])](https://github.com/razwafw)
 
 [![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=razwafw&theme=dracula&layout=compact&langs_count=11)](https://github.com/razwafw)
