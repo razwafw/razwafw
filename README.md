@@ -1,15 +1,15 @@
 ## Hi there, my name is Razwa Fazila Wibowo 👋
 
-### I am a university student that is currently interested in expanding my knowledge and capability in programming.
+### I am a university student that is interested in expanding my knowledge and capability in programming.
 
 <br>
 
 My interests in programming revolves around:
- - android development 📱;
- - web development (both front-end and back-end) 📡; and,
- - machine learning 🤖.
+ - web development (both front-end and back-end);
+ - machine learning; and,
+ - mobile development (specifically Android).
 
-My GitHub account is a portofolio of my projects which are related to programming. Feel free to view and evaluate them!
+My GitHub account is a portofolio of my personal projects which are related to programming.
 
 If you want to know more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/razwa-fazila-wibowo-2959151b6/) page.
 
